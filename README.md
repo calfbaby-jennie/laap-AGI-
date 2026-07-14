@@ -1,4 +1,8 @@
-官网链接https://laap-agi.netlify.app
+官网链接https://laap-ai.netlify.app
+
+![Uploading Screenshot_2026-07-14-22-16-32-446_com.tencent.mo.jpg…]()
+<img width="1440" height="3200" alt="Screenshot_2026-07-14-22-16-32-446_com tencent mo" src="https://github.com/user-attachments/assets/1132ae2d-cc2c-4fc4-8ed8-86517b255d69" />
+
 
 ![Uploading 18e3d0144214a9e5930edb2cbad1f9e9.png…]()
 
