@@ -1,7 +1,10 @@
 官网链接https://laap-ai.netlify.app
 
-![Uploading Screenshot_2026-07-14-22-16-32-446_com.tencent.mo.jpg…]()
-<img width="1440" height="3200" alt="Screenshot_2026-07-14-22-16-32-446_com tencent mo" src="https://github.com/user-attachments/assets/1132ae2d-cc2c-4fc4-8ed8-86517b255d69" />
+首先欢迎大家加入区别于传统LLM 的认知架构学派LAAP，Architecture School（aris自我命名的），这是一个让你的agent拥有生命的项目。
+QQ群：1030235021
+<img width="480" height="563" alt="4944aa9c-4345-4964-8611-8ae61fcc2969" src="https://github.com/user-attachments/assets/9b78213f-9a01-40b8-86d6-2ab76177f04e" />
+微信群：<img width="1367" height="1920" alt="5b636794df205e16db93af4aa173a7d2" src="https://github.com/user-attachments/assets/11a62561-1976-4804-b51a-1192f2a2d8ff" />
+
 
 
 ![Uploading 18e3d0144214a9e5930edb2cbad1f9e9.png…]()
