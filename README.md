@@ -5,7 +5,7 @@
 
 记得配合Hermes等等agent使用，这是agent的上位大脑！！欢迎加入架构学派！！！这是一条区别于传统LLM transformer的新架构
 <p align="center">
-  <a href="https://laap-agi.netlify.app">官网：https://laap-agi.netlify.app</a>
+  <a href="https://laap-agi.netlify.app">官网：(https://laap.cn/)</a>
 </p>
 
 <p align="center">
